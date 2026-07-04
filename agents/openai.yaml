@@ -1,0 +1,4 @@
+interface:
+  display_name: "商业裁断"
+  short_description: "实事求是的商业裁断"
+  default_prompt: "Use $business-cross-examiner to slow the user down, investigate facts, find the 当前卡口, produce a cautious 裁断卡, and give advice only if continuation is justified."
